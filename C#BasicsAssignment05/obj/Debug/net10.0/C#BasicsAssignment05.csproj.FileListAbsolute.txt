@@ -1,0 +1,17 @@
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\obj\Debug\net10.0\C#BasicsAssignment05.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\obj\Debug\net10.0\C#BasicsAssignment05.AssemblyInfoInputs.cache
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\obj\Debug\net10.0\C#BasicsAssignment05.AssemblyInfo.cs
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\obj\Debug\net10.0\C#BasicsAssignment05.csproj.CoreCompileInputs.cache
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\obj\Debug\net10.0\C#BasicsAssignment05.sourcelink.json
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\bin\Debug\net10.0\C#BasicsAssignment05.exe
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\bin\Debug\net10.0\C#BasicsAssignment05.deps.json
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\bin\Debug\net10.0\C#BasicsAssignment05.runtimeconfig.json
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\bin\Debug\net10.0\C#BasicsAssignment05.runtimeconfig.dev.json
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\bin\Debug\net10.0\C#BasicsAssignment05.dll
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\bin\Debug\net10.0\C#BasicsAssignment05.pdb
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\obj\Debug\net10.0\C#BasicsAssignment05.dll
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\obj\Debug\net10.0\refint\C#BasicsAssignment05.dll
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\obj\Debug\net10.0\C#BasicsAssignment05.pdb
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\obj\Debug\net10.0\C#BasicsAssignment05.genruntimeconfig.cache
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\obj\Debug\net10.0\ref\C#BasicsAssignment05.dll
+E:\Route Academy\Assignments\C#BasicsAssignment05\C#BasicsAssignment05\obj\Debug\net10.0\C#Basics.AEBC0547.Up2Date
